@@ -1,12 +1,19 @@
 {
-    "name": "node-examples",
-    "version": "1.0.0",
-    "description": "Simple Node Examples",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node index"
-    },
-    "author": "oscilloscope",
-    "license": "ISC"
-  }
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Node HTTP Module Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscilloscope/coursera-node-js.git"
+  },
+  "author": "oscilloscope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscilloscope/coursera-node-js/issues"
+  },
+  "homepage": "https://github.com/oscilloscope/coursera-node-js#readme"
+}
